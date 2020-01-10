@@ -13,3 +13,5 @@ var c = d;
 var
 
 test;
+
+var a = b
