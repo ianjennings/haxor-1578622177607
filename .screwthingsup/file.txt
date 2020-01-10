@@ -11,3 +11,5 @@ ar a = b;
 var c = d;
 
 var
+
+test;
